@@ -1,5 +1,5 @@
 # 💫 About Me:
-ambitious Front-end developer specializes in building interactive, functional, and fully responsive web apps.<br>As a frontend developer, my passion for crafting immersive digital experiences drives me in every project I undertake. What began as a hobby soon became an all-consuming passion, as I realized the transformative power of frontend technologies in bringing ideas to life on the web.<br>For me, frontend development is not just about writing code, it’s about creating meaningful connections between users and technology.
+Ambitious Front-end developer specializes in building interactive, functional, and fully responsive web apps.<br>As a frontend developer, my passion for crafting immersive digital experiences drives me in every project I undertake. What began as a hobby soon became an all-consuming passion, as I realized the transformative power of frontend technologies in bringing ideas to life on the web.<br>For me, frontend development is not just about writing code, it’s about creating meaningful connections between users and technology.
 
 
 ## 🌐 Socials:
